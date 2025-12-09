@@ -3,7 +3,7 @@ body {
     height: 100vh;
     display: flex;
     flex-direction: column;
-    justify-content: space-evenly;
+    margin-top:10px;
     align-items: center;
     font-family: Tahoma;
     font-size: 40px;
@@ -16,6 +16,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top:10px;
 }
 
 .a { background: #dfe1e7; }
