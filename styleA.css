@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    font-family: Tahoma;
+    font-size: 40px;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    border-top: 1px solid #687291;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.a { background: #dfe1e7; }
+.b { background: #eeeff2; }
+.c { background: #dfe1e7; }
+.d { background: #eeeff2; }
+.e { background: #dfe1e7; }
+
+.f {
+    background: #687291;
+    border: 4px solid black;
+}

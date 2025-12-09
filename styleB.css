@@ -1,0 +1,28 @@
+body {
+    font-family: Tahoma;
+    font-size: 40px;
+    white-space: nowrap;
+}
+
+.box {
+    width: 100px;
+    height: 150px;
+    background: #eeeff2;
+    border-left: 10px dotted #D0D0FF;
+    display: inline-block;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.box:hover {
+    background: yellow;
+    color: goldenrod;
+    cursor: pointer;
+}
+
+.f {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    margin: 0;
+}
